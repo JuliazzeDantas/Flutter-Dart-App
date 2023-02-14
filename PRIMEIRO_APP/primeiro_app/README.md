@@ -1,16 +1,14 @@
-# primeiro_app
+# PRIMEIRO_PROGRAMA
 
-A new Flutter project.
+This is my first project in Flutter and Dart! The purpose of this project is to demonstrate my initial skills in Flutter and Dart by creating a simple app that performs mathematical operations. In this project, I don't use any keyboard input, and the mathematical operations are fixed and pre-defined.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+The app can perform the following mathematical operations:
 
-A few resources to get you started if this is your first Flutter project:
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The operations are performed with two pre-defined fixed numbers. The result of the operation is displayed on the screen.
